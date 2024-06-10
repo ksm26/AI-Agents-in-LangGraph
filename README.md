@@ -1,4 +1,4 @@
-# 🤖 [Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
+# 🤖 [AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
 
 💡 Welcome to the "AI Agents in LangGraph" course! The course will equip you with the knowledge and skills to build and enhance AI agents using the LangGraph extension of LangChain.
 
