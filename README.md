@@ -6,6 +6,10 @@
 In this course, you'll explore key principles of designing AI agents with LangGraph, learning how to build flow-based applications and enhance agent capabilities. Here's what you can expect to learn and experience:
 
 1. 🛠️ **Building from Scratch**: Learn to build an agent from scratch using Python and an LLM, understanding the division of tasks between the LLM and the code around it.
+<p align="center">
+<img src="images/l1_1.png" height="300"> 
+</p>
+
 2. 🔄 **LangGraph Implementation**: Rebuild your agent using LangGraph, learning about its components and how to combine them effectively.
 3. 🔍 **Agentic Search**: Explore agentic search, which retrieves multiple answers in a predictable format, enhancing the agent’s built-in knowledge.
 4. 💾 **Persistence**: Implement persistence in agents, enabling state management across multiple threads, conversation switching, and the ability to reload previous states.
