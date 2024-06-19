@@ -12,8 +12,8 @@ In this course, you'll explore key principles of designing AI agents with LangGr
 
 2. 🔄 **LangGraph Implementation**: Rebuild your agent using LangGraph, learning about its components and how to combine them effectively.
 <p align="center">
-<img src="images/l2_1.png" height="400"> 
-<img src="images/l2_2.png" height="400"> 
+<img src="images/l2_1.png" height="380"> 
+<img src="images/l2_2.png" height="380"> 
 </p>
 
 3. 🔍 **Agentic Search**: Explore agentic search, which retrieves multiple answers in a predictable format, enhancing the agent’s built-in knowledge.
