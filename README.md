@@ -24,6 +24,9 @@ In this course, you'll explore key principles of designing AI agents with LangGr
 4. 💾 **Persistence**: Implement persistence in agents, enabling state management across multiple threads, conversation switching, and the ability to reload previous states.
 5. 👥 **Human-in-the-Loop**: Incorporate human-in-the-loop into agent systems to ensure accuracy and reliability.
 6. ✍️ **Essay Writing Agent**: Develop an agent for essay writing, replicating the workflow of a researcher to enhance productivity and quality.
+<p align="center">
+<img src="images/l6_1.png" height="450"> 
+</p>
 
 By the end of the course, you’ll have hands-on experience with LangGraph’s core components and a solid understanding of how to build and enhance AI agents effectively.
 
